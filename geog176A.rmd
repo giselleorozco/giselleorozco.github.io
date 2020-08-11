@@ -1,0 +1,15 @@
+---
+title: "Projects"
+output:
+  html_document:
+    theme: cosmo
+---
+
+In the summer of 2020, I took a GIS course called GEOG 176A that's based in R. This course serves as a pioneer for all my future work in GIS. This is the first time (and only time) that UCSB will have instructors teach this course in code and so this will be an exciting thing to do! This page will serve as a place where I will add a collection of links to all my projects. I will do my best to frequently update this page whenever possible. Thanks for checking it out!
+
+---
+# What did I learn from this activity?
+  - I was able to figure out how to make directories and figure out how to navigate within them.
+  - I got an idea of how RStudio works and how Rmarkdowns and github work hand in hand with building a web page/ portfolio.
+  - It's important to have patience when coding and making sure to take breaks in between. This is my first time doing this so it's not perfect but I am trying my best. :)
+  - There's so much more out there for me to discover and so I hope you can join me along for the ride.

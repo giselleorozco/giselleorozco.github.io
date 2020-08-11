@@ -1,0 +1,16 @@
+name: "first-website"
+output_dir: "."
+navbar:
+  title: "Welcome to My Website!"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "GIS Work"
+      href: geog176A.html
+  right:
+    - icon: fa-github
+      href: https://github.com/giselleorozco/geog176A
+output:
+  html_document:
+    theme: cosmo
