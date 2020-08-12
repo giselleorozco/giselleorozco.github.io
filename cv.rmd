@@ -1,0 +1,18 @@
+---
+title: "CV"
+author: "Giselle Orozco"
+output: html_document
+---
+### Education
+  - Geography, BA, University of California,Santa Barbara
+    - 2017- Expected 2021
+
+---
+
+### Work
+  - A&R Construction 2015-2018
+    - Invoice Collector
+---
+
+---
+This is still under construction so please bear with me! Thank you! :)
